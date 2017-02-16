@@ -1,0 +1,1 @@
+Created for #KnightD3, a vertical bar chart with negative values. Based on (and slightly bastardised) Mike Bostock's "Bar chart with negative values" http://bl.ocks.org/mbostock/2368837 ~~There are some aspects that could be done more elegantly / D3-ish ways. (E.g. x axis values should be formatted as proper dates, not numbers).~~ < thanks to [~jalapic] for the tip, nicely fixed!
